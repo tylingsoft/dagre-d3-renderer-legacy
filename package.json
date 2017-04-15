@@ -1,6 +1,6 @@
 {
   "name": "dagre-d3-renderer",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "main": "index.js",
   "description": "A D3-based renderer for Dagre",
   "author": "Chris Pettitt <chris@samsarin.com>",
