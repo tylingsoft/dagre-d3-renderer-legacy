@@ -1,6 +1,6 @@
 {
   "name": "dagre-d3-renderer",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "main": "index.js",
   "description": "A D3-based renderer for Dagre",
   "author": "Chris Pettitt <chris@samsarin.com>",
@@ -14,7 +14,7 @@
     "upgrade": "ncu -ua && yarn upgrade"
   },
   "dependencies": {
-    "d3": "3.5.6",
+    "d3": "3.5.17",
     "dagre": "^0.7.4",
     "graphlib": "^2.1.1",
     "lodash": "^4.17.4"
